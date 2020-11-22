@@ -1,0 +1,20 @@
+h1{
+color:blueviolet;
+}
+*{
+border:solid;
+}
+.header{
+background-color: darksalmon; 
+display:flex;
+justify-content:space-between;
+
+}
+.menu{
+background-color: dimgray;
+}
+.grid{
+display:flex;
+flex-wrap: wrap;
+justify-content:space-evenly;
+}
